@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+.title{
+    text-align:center;
+    font-size: 90px ;
+    color: white ;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif ;
+    
+}
+
+.d-block{
+    height: 25%;
+    width:100%;
+    background-color: lightskyblue;
+    padding-bottom: 50px;
+}
+
+.headerMoto{
+    color: white;
+    font-size: 20px;
+}
